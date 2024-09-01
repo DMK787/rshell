@@ -1,1 +1,1 @@
-start msedge
+start chrome
